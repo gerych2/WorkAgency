@@ -1,0 +1,7 @@
+{
+  "start": "Hello! I'm an outstaffing bot.\n\nChoose an option:",
+  "about": "<b>About company</b>\n\nWe provide outstaffing services.\nFast and reliable.",
+  "menu_company": "I need specialists",
+  "menu_specialist": "I want to apply",
+  "menu_about": "About company"
+}

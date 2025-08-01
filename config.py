@@ -1,0 +1,3 @@
+BOT_TOKEN = ""
+
+ADMIN_PASSWORD = "12345"

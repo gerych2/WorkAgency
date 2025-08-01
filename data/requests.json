@@ -1,0 +1,72 @@
+{
+  "clients": [
+    {
+      "id": "e13f876c-3d57-4d39-bb72-9b34f5f25175",
+      "type": "client",
+      "timestamp": "2025-08-01T16:29:00.880428",
+      "status": "accepted",
+      "accepted_by": "gerych_siu",
+      "name": "231313",
+      "contact": "мфупфц",
+      "requirements": "сф",
+      "budget": "133123"
+    },
+    {
+      "id": "41bb412e-27b3-4bdf-9a34-40b2d7fbe339",
+      "type": "client",
+      "timestamp": "2025-08-01T16:32:40.597900",
+      "status": "accepted",
+      "accepted_by": "gerych_siu",
+      "name": "Я хочу предложить себя",
+      "contact": "цйцй",
+      "requirements": "ычыф",
+      "budget": "ыфссф"
+    }
+  ],
+  "specialists": [
+    {
+      "id": "8f5e2171-f334-4710-b138-155c4c874417",
+      "type": "specialist",
+      "timestamp": "2025-08-01T16:29:52.045581",
+      "status": "accepted",
+      "accepted_by": "gerych_siu",
+      "name": "ФУПСПФП",
+      "contact": "1929129",
+      "skills": "лвмылмывмл",
+      "resume_file": "data\\resumes\\BQACAgIAAxkBAAOaaIzq-6y9Akw6evsqNzqSTdlBs2sAAqR0AAKjLGlIQdtoQPMWY_w2BA_Visily-Export_26-07-2025_12-58.pdf"
+    },
+    {
+      "id": "9ec52d3e-31ae-4636-8908-f9846ac8ce0c",
+      "type": "specialist",
+      "timestamp": "2025-08-01T16:32:54.407985",
+      "status": "accepted",
+      "accepted_by": "gerych_siu",
+      "name": "ымвмымыв",
+      "contact": "323131",
+      "skills": "высы",
+      "resume_file": null
+    },
+    {
+      "id": "9f61c0c7-711d-48a6-ac05-8741eb843fa6",
+      "type": "specialist",
+      "timestamp": "2025-08-01T16:33:45.815631",
+      "status": "accepted",
+      "accepted_by": "gerych_siu",
+      "name": "вцммамыв",
+      "contact": "вмымы",
+      "skills": "вымвымы",
+      "resume_file": "data\\resumes\\BQACAgIAAxkBAAPBaIzr5sPOUTZde2lNMCTe2x0HQHoAArR0AAKjLGlIfmIX5djkyOk2BA_Текст к презентации.docx"
+    },
+    {
+      "id": "f159bb73-46dd-4f96-84d6-ef55b6ff74e7",
+      "type": "specialist",
+      "timestamp": "2025-08-01T16:35:43.880116",
+      "status": "accepted",
+      "accepted_by": "gerych_siu",
+      "name": "ацщшацао",
+      "contact": "мовтмомвов",
+      "skills": "вьлмьдвымывлм",
+      "resume_file": "data\\resumes\\BQACAgIAAxkBAAPNaIzsXDoWrhjQVvi8gbTqk3rMTL4AAr10AAKjLGlIX9dwcckuy8Y2BA_otchet.docx"
+    }
+  ]
+}
